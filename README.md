@@ -1,6 +1,7 @@
 # Zomato-Analytics-PowerBI
 📖 Overview The Zomato Analytics Dashboard is a Power BI project designed to explore restaurant data from 15 countries, 141 cities, 250 cuisines, and 9,500+ restaurants. It uncovers valuable insights into customer preferences, cuisine popularity, ratings, and online delivery patterns, helping businesses and analysts make informed decisions in the food & beverage industry.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0b5b6f0-a9fe-4324-be82-572b8ba792e9" />
 
 # 🚀 Key Highlights
 
